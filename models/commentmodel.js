@@ -15,6 +15,9 @@ comment_input:{
 },
 user_ID:{
     type:DataTypes.INTEGER,
-    
+
 }
-})
+});
+
+
+module.exports=COMMENT;
